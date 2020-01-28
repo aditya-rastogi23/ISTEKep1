@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815091174111",
+    "firebase_url": "https://iste-kep.firebaseio.com",
+    "project_id": "iste-kep",
+    "storage_bucket": "iste-kep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815091174111:android:8c9f9ea38c49fe3a8eb76a",
+        "android_client_info": {
+          "package_name": "com.example.istekep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815091174111-vtrvgnkur5v98ddc0t5bem8hhtsubvlh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.istekep",
+            "certificate_hash": "fecbfc8fa2b7993b748ce3ae8e59758d30b2bfec"
+          }
+        },
+        {
+          "client_id": "815091174111-flgk43cbf8pv58225pahd4egnv8iifmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNgVx8mrGd2muUscLVqzoR9CyWrc2U3ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815091174111-flgk43cbf8pv58225pahd4egnv8iifmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
